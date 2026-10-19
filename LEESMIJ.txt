@@ -1,0 +1,7 @@
+ENERGIEPRIJS ZELE - V3
+
+Upload index.html, manifest.webmanifest en test-api.html naar de root van een nieuwe GitHub repository.
+Activeer GitHub Pages op main / root.
+Open eerst test-api.html via je GitHub Pages adres.
+
+V3 gebruikt proxy.cors.dev als tussenlaag voor de publieke SmartPrice.be GET-API omdat de rechtstreekse browser-fetch vanaf GitHub Pages bij de gebruiker faalde.
